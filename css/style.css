@@ -1,0 +1,41 @@
+
+body {
+    background-color: indigo;
+}
+#container {
+	height: 100%;
+	width: 1000px;/*中央の幅の指定*/
+	margin: 0 auto;
+	background:gray;/*中央の背景を白にする指定*/
+}
+#title {
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+
+#select {
+    text-align: center;
+    color: white;
+}
+
+#button {
+    text-align: center;
+    
+   
+}
+
+#bana{
+    text-align: center;
+    width: 100%;
+   
+}
+
+#tuki {
+    color: red;
+}
+
+#iro {
+    text-align: center;
+    color: red;
+}
